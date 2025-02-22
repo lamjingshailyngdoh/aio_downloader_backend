@@ -3,3 +3,5 @@ uvicorn
 yt-dlp
 pydantic
 requests
+python-dotenv  # For loading environment variables from .env
+httpx  # Alternative to requests, better for async operations
